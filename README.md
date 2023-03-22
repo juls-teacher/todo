@@ -1,6 +1,6 @@
 <h1 align="center">Django TODO <a href="https://github.com/juls-teacher/todo" target="_blank">app</a> 
 <h3 align="center">Creating a website with adding information to the database</h3>
-![ScreenShot](https://github.com/juls-teacher/todo/blob/master/img_1.png)
+![ScreenShot](https://raw.github.com/juls-teacher/todo/blob/master/img_1.png)
 
 Project Structure:
   todo/ - project root folder, repository
