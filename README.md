@@ -1,11 +1,12 @@
 <h1 align="center">Django TODO <a href="https://github.com/juls-teacher/todo" target="_blank">app</a> 
 <h3 align="center">Creating a website with adding information to the database</h3>
+
 ![ScreenShot](https://raw.github.com/juls-teacher/todo/master/img_1.png)
 
 Project Structure:
-  todo/ - project root folder, repository
-  manage.py - Django app
-  .venv/ - virtual environment
+  <h4>todo/ - project root folder, repository</h4>
+  <h4>manage.py - Django app</h4>
+  <h4>.venv/ - virtual environment</h4>
 
 Commands for Creating a Project Structure
 
